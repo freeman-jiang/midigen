@@ -1,0 +1,3 @@
+*.ctx.md
+*.output.mid
+__pycache__
